@@ -1,5 +1,5 @@
 import React from "react";
-import { generesList } from "../constants/generesList";
+import { generesList } from "../constants/GeneresList";
 import MovieList from "./MovieList";
 
 const GeneresMovieList = () => {
